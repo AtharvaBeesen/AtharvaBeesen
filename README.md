@@ -1,6 +1,6 @@
 # Hi there 👋 my name is Atharva Beesen
 
-I'm currently CS major at Georgia Tech 🐝 and will be interning as a SWE at Millennium Management 💼📊 for summer 2025!
+I'm currently CS major at Georgia Tech 🐝 and will be interning as a SWE at Millennium Management 💼📊 this summer.
 
 Here are some things I love:
 - **Quant Finance** 📈
