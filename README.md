@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 my name is Atharva Beesen
 
-<!--
-**AtharvaBeesen/AtharvaBeesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently CS major at Georgia Tech 🐝 and will be interning as a SWE at Millennium Management 💼📊 this summer!
 
-Here are some ideas to get you started:
+Here are some things I love:
+- **Quant Finance** 📈
+- **Software Development** 💻
+- **Machine Learning** 🤖
+- **Urbanism** 🏙️
+- **Sports** ⚽🏀 (#coys)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my repos and feel free to connect! 😊
+
+# My Work
+- [Options Pricing Model](https://github.com/AtharvaBeesen/OptionsPricing)
+- [Planmaster - an AI Travel Planning Startup](https://github.com/AtharvaBeesen/planmaster)
+- [NBA Expected Points Statistic](https://github.com/AtharvaBeesen/xPtsNBA)
+
+# Contact Me
+- Email: [abeesen3@gatech.edu](mailto:abeesen3@gatech.edu)
+- LinkedIn: [@atharvabeesen](https://www.linkedin.com/in/atharvabeesen/)
