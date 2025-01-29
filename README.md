@@ -15,6 +15,7 @@ Check out my repos and feel free to connect! 😊
 - [Advanced ML Based Options Pricing Model](https://github.com/AtharvaBeesen/OptionsPricing)
 - [Planmaster - an AI Travel Planning Startup](https://github.com/AtharvaBeesen/planmaster)
 - [NBA Expected Points Statistic](https://github.com/AtharvaBeesen/xPtsNBA)
+- [Urban Walkability Model Demo Site for GT Research](https://github.com/AtharvaBeesen/vip-pei-app-2)
 
 # Contact Me
 - Email: [abeesen3@gatech.edu](mailto:abeesen3@gatech.edu)
