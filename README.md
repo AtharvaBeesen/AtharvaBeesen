@@ -4,7 +4,7 @@ I'm currently CS major at Georgia Tech 🐝 and will be interning as a SWE at Mi
 
 Some things I love:
 - **Quant Finance** 📈
-- **Software Development** 💻
+- **Software Engineering** 💻
 - **Machine Learning** 🤖
 - **Urbanism** 🏙️
 - **Sports** ⚽🏀 (#coys)
