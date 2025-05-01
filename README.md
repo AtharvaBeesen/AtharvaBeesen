@@ -2,15 +2,6 @@
 
 I'm currently CS major at Georgia Tech 🐝 and will be interning as a SWE at Millennium Management 💼📊 this summer.
 
-Some things I love:
-- **Quant Finance** 📈
-- **Software Engineering** 💻
-- **Machine Learning** 🤖
-- **Urbanism** 🏙️
-- **Sports** ⚽🏀 (#coys)
-
-Check out my repos and feel free to connect! 😊
-
 # My Work
 - [Advanced ML Based Options Pricing Model](https://github.com/AtharvaBeesen/OptionsPricing)
 - [Planmaster - an AI Travel Planning Startup](https://github.com/AtharvaBeesen/planmaster)
