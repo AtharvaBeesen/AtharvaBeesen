@@ -4,7 +4,7 @@ I'm currently CS major at Georgia Tech 🐝 and will be interning as a SWE at Mi
 
 # My Work
 - [Market Simulation (Low-latency Orderbook and Trading Agents)](https://github.com/AtharvaBeesen/MarketSim)
-- [Advanced ML Based Options Pricing Model](https://github.com/AtharvaBeesen/OptionsPricing)
+- [Advanced Options Pricing Model](https://github.com/AtharvaBeesen/OptionsPricing)
 - [Planmaster - an AI Travel Planning Startup](https://github.com/AtharvaBeesen/planmaster)
 - [NBA Expected Points Statistic](https://github.com/AtharvaBeesen/xPtsNBA)
 - [Urban Walkability Model Demo Site for GT Research](https://github.com/AtharvaBeesen/vip-pei-app-2)
