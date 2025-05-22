@@ -3,8 +3,8 @@
 I'm currently CS major at Georgia Tech 🐝 and will be interning as a SWE at Millennium Management 💼📊 this summer.
 
 # My Work
-- [Market Simulation (Low-latency Orderbook and Trading Agents)](https://github.com/AtharvaBeesen/MarketSim)
-- [Advanced Options Pricing Model](https://github.com/AtharvaBeesen/OptionsPricing)
+- [Market Simulator (Low-Latency C++ Orderbook with Python Trading Agents))](https://github.com/AtharvaBeesen/MarketSim)
+- [Options Pricing with RAG-based Sentiment Analysis & an Options Arbitrage Backtest](https://github.com/AtharvaBeesen/OptionsPricing)
 - [Planmaster - an AI Travel Planning Startup](https://github.com/AtharvaBeesen/planmaster)
 - [NBA Expected Points Statistic](https://github.com/AtharvaBeesen/xPtsNBA)
 - [Urban Walkability Model Demo Site for GT Research](https://github.com/AtharvaBeesen/vip-pei-app-2)
