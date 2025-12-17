@@ -1,7 +1,5 @@
 # Hi there 👋 my name is Atharva Beesen
 
-I'm currently CS major at Georgia Tech 🐝 and will be interning as a SWE at Millennium Management 💼📊 this summer.
-
 # My Work
 - [Market Simulator (Low-Latency C++ Orderbook with Python Trading Agents))](https://github.com/AtharvaBeesen/MarketSim)
 - [Options Pricing with RAG-based Sentiment Analysis & an Options Arbitrage Backtest](https://github.com/AtharvaBeesen/OptionsPricing)
